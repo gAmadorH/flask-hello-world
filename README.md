@@ -109,6 +109,7 @@ And it outputs something like:
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
 
+By default Flask app run a server in the 5000 port in localhost.  
 Now you can send a request to your app:
 
 ```bash
