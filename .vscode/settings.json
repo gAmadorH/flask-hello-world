@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+  "editor.rulers": [
+    100
+  ],
+  "files.autoSave": "onFocusChange",
+  "cSpell.enabled": true,
+  "cSpell.words": [
+    "mkdir",
+    "venv"
+  ],
+  "python.pythonPath": ".venv/bin/python",
+  "python.terminal.activateEnvironment": true
+}
