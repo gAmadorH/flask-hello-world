@@ -1,5 +1,7 @@
 # flask-hello-world
 
+[![license](https://img.shields.io/github/license/gAmadorH/flask-hello-world.svg?color=blue)](https://github.com/gAmadorH/flask-hello-world/blob/master/LICENSE)
+
 A simple Flask hello world application.
 
 ## Requirements
@@ -54,6 +56,9 @@ Jinja2==2.11.2
 MarkupSafe==1.1.1
 Werkzeug==1.0.1
 ```
+
+WOW Flask has very few dependencies to be a web application framework,  
+it is because Flask is a `microframework`
 
 ## Create a Hello World app
 
