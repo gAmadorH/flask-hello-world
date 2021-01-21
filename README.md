@@ -14,7 +14,7 @@ Create a project folder and create a virtual environment and activate it.
 
 ```bash
 mkdir flask-hello-world && cd $_
-python -m venv .venv --python=python3.8
+python3 -m venv .venv
 source .venv/bin/activate
 ```
 
