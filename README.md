@@ -84,10 +84,12 @@ def hello():
 ## Run your new app
 
 To run your app, first you need to set a environment variable called `FLASK_APP`  
-and its value is the name of your file where your app is (`main.py` in this case).
+and its value is the name of your file where your app is (`main.py` in this case).  
+Optionally you can set the _debug mode_ for developing suing `FLASK_DEBUG` env var to 1.
 
 ```bash
 export FLASK_APP=main.py
+export FLASK_DEBUG=1
 ```
 
 Check the env var:
@@ -110,7 +112,7 @@ And it outputs something like:
 * Environment: production
   WARNING: This is a development server. Do not use it in a production deployment.
   Use a production WSGI server instead.
-* Debug mode: off
+* Debug mode: on
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
 
