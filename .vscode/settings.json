@@ -6,6 +6,7 @@
   "files.autoSave": "onFocusChange",
   "cSpell.enabled": true,
   "cSpell.words": [
+    "microframework",
     "mkdir",
     "venv"
   ],
